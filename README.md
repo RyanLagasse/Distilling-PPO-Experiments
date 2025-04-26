@@ -21,26 +21,26 @@ Training Bloopers!
 ---
 
 ## 📁 Directory Structure
-├── distill_lunar_lander.py # train teacher, student, make GIF  
+├── distill_lunar_lander.py # train teacher, student, make GIF
 
-├── distill_with_plots.py # train + Monitor logs + plot curves   
+├── distill_with_plots.py # train + Monitor logs + plot curves
 
-├── evaluate_models.py # evaluate models and tabulate results   
+├── evaluate_models.py # evaluate models and tabulate results
 
-├── results/   
+├── results/
 
-│ └── all gifs + results csvs 
+│ └── all gifs + results csvs
 
-├── videos/ 
+├── videos/
 
-└── logs/   
+└── logs/
 
 └── models  # note we haven't uploaded these but comment out the functions to generate these in main to run your own!
 
-   └── ppo_teacher_v3.pt 
+   └── ppo_teacher_v3.pt
    
    └── ppo_student_v3_64_8.pt
    
-   └── etc ... 
+   └── etc ...
    
    
