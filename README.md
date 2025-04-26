@@ -7,6 +7,7 @@ A minimal pipeline to
 4. Plot training curves and generate test-run GIFs
 
 ![Training Trials](results/1.gif)
+
 Training Bloopers!
 
 
