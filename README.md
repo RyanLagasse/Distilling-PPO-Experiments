@@ -25,7 +25,12 @@ Training Bloopers!
 ├── distill_with_plots.py # train + Monitor logs + plot curves   
 ├── evaluate_models.py # evaluate models and tabulate results   
 ├── results/   
-│ └── 1.gif # example test-run GIF   
+│ └── all gifs + results csvs 
+├── videos/ 
 └── logs/   
-├── teacher/ # Monitor logs & tensorboard for teacher   
-└── student/ # Monitor logs & tensorboard for student  
+└── models  # note we haven't uploaded these but comment out the functions to generate these in main to run your own!
+   └── ppo_teacher_v3.pt 
+   └── ppo_student_v3_64_8.pt
+   └── etc ... 
+   
+   
