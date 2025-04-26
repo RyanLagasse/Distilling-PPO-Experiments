@@ -21,11 +21,11 @@ Training Bloopers!
 ---
 
 ## 📁 Directory Structure
-├── distill_lunar_lander.py # train teacher, student, make GIF 
-├── distill_with_plots.py # train + Monitor logs + plot curves 
-├── evaluate_models.py # evaluate models and tabulate results 
-├── results/ 
-│ └── 1.gif # example test-run GIF 
-└── logs/ 
-├── teacher/ # Monitor logs & tensorboard for teacher 
-└── student/ # Monitor logs & tensorboard for student
+├── distill_lunar_lander.py # train teacher, student, make GIF  
+├── distill_with_plots.py # train + Monitor logs + plot curves   
+├── evaluate_models.py # evaluate models and tabulate results   
+├── results/   
+│ └── 1.gif # example test-run GIF   
+└── logs/   
+├── teacher/ # Monitor logs & tensorboard for teacher   
+└── student/ # Monitor logs & tensorboard for student  
